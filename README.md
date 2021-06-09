@@ -6,5 +6,5 @@
 
 ## 모델생성
 * CNN 알고리즘을 이용한 모델
-![model1](https://user-images.githubusercontent.com/75695573/121337809-e1a5a880-c957-11eb-97e0-e1a03aec9736.jpg)
+![model1-1](https://user-images.githubusercontent.com/75695573/121338649-a9529a00-c958-11eb-916c-e13468a49c11.jpg)
 

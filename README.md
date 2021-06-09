@@ -14,7 +14,7 @@
 ## 결과
 * Accuracy graph
 
-
+![graph](https://user-images.githubusercontent.com/75695573/121340912-1830f280-c95b-11eb-8a80-e7bd7a097f00.png)
 
 * F-1 score
 

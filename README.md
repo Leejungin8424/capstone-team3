@@ -14,6 +14,7 @@
 ## 결과
 * Confusion Matrix
 
+![Confusion Matrix](https://user-images.githubusercontent.com/75695573/121341267-73fb7b80-c95b-11eb-942b-fc408d1b7d8f.jpg)
 
 * F-1 Score
 

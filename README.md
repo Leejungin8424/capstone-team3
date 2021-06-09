@@ -8,5 +8,5 @@
 * CNN 알고리즘을 이용한 모델
 
 ![model1-1](https://user-images.githubusercontent.com/75695573/121338649-a9529a00-c958-11eb-916c-e13468a49c11.jpg)
-![model2](https://user-images.githubusercontent.com/75695573/121338880-eb7bdb80-c958-11eb-9381-6d0fc842805f.jpg)
+![model2-1](https://user-images.githubusercontent.com/75695573/121339064-123a1200-c959-11eb-8d05-63a69f6dabeb.jpg)
 

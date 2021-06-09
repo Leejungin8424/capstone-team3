@@ -12,10 +12,9 @@
 ![model2-1](https://user-images.githubusercontent.com/75695573/121339064-123a1200-c959-11eb-8d05-63a69f6dabeb.jpg)
 
 ## 결과
-* Accuracy graph
+* Confusion Matrix
 
-![graph](https://user-images.githubusercontent.com/75695573/121340912-1830f280-c95b-11eb-8a80-e7bd7a097f00.png)
 
-* F-1 score
+* F-1 Score
 
 ![f-1 score](https://user-images.githubusercontent.com/75695573/121340039-16b2fa80-c95a-11eb-8c00-0d0d2d47b82b.jpg)

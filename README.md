@@ -4,6 +4,6 @@
 ### Deeplearning을 이용한 AI분리수거
 * Glass,Metal,Plastic,Trash 4가지의 카테고리를 각각 분류하는 프로젝트
 
-
-
+## 모델생성
+* CNN 알고리즘을 이용한 모델
 

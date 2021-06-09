@@ -11,6 +11,10 @@
 
 ![model2-1](https://user-images.githubusercontent.com/75695573/121339064-123a1200-c959-11eb-8d05-63a69f6dabeb.jpg)
 
+## 데이터
+*ex.Glass
+
+
 ## 결과
 * Confusion Matrix
 

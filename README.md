@@ -41,6 +41,3 @@
 ![f-1 score](https://user-images.githubusercontent.com/75695573/121340039-16b2fa80-c95a-11eb-8c00-0d0d2d47b82b.jpg)
 
 
-## 소스코드
-
-* RECYCLING_TRASH.ipynb

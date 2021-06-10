@@ -24,12 +24,14 @@
 
 ![trash](https://user-images.githubusercontent.com/75695573/121469372-55e35900-c9f7-11eb-9f78-891c758bafde.jpg)
 
-## 모델생성
+## 모델
 * CNN 알고리즘을 이용한 모델
 
 ![model1](https://user-images.githubusercontent.com/75695573/121473376-8d550400-c9fd-11eb-998b-5e3868148c01.png)
 
 ![model2](https://user-images.githubusercontent.com/75695573/121473538-ca20fb00-c9fd-11eb-976b-8093b4341dc2.png)
+
+### Model Summary
 
 ![model1-1](https://user-images.githubusercontent.com/75695573/121338649-a9529a00-c958-11eb-916c-e13468a49c11.jpg)
 

@@ -4,13 +4,6 @@
 ### Deeplearning을 이용한 AI분리수거
 * Glass,Metal,Plastic,Trash 4가지의 카테고리를 각각 분류하는 프로젝트
 
-## 모델생성
-* CNN 알고리즘을 이용한 모델
-
-![model1-1](https://user-images.githubusercontent.com/75695573/121338649-a9529a00-c958-11eb-916c-e13468a49c11.jpg)
-
-![model2-1](https://user-images.githubusercontent.com/75695573/121339064-123a1200-c959-11eb-8d05-63a69f6dabeb.jpg)
-
 ## 데이터
 * ex.Glass
 
@@ -28,6 +21,13 @@
 * Trash
 
 ![trash](https://user-images.githubusercontent.com/75695573/121469372-55e35900-c9f7-11eb-9f78-891c758bafde.jpg)
+
+## 모델생성
+* CNN 알고리즘을 이용한 모델
+
+![model1-1](https://user-images.githubusercontent.com/75695573/121338649-a9529a00-c958-11eb-916c-e13468a49c11.jpg)
+
+![model2-1](https://user-images.githubusercontent.com/75695573/121339064-123a1200-c959-11eb-8d05-63a69f6dabeb.jpg)
 
 
 

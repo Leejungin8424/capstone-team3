@@ -5,20 +5,20 @@
 * Glass,Metal,Plastic,Trash 4가지의 카테고리를 각각 분류하는 프로젝트
 
 ## 데이터
-* ex.Glass
+* Ex-Glass
 
 ![glass](https://user-images.githubusercontent.com/75695573/121469094-d9507a80-c9f6-11eb-9c0a-5a6c71059395.jpg)
 
-* Metal
+* Ex-Metal
 
 ![metal](https://user-images.githubusercontent.com/75695573/121469613-c4281b80-c9f7-11eb-9ba4-a34f6de00c07.jpg)
 
-* Plastic
+* Ex-Plastic
 
 ![pla](https://user-images.githubusercontent.com/75695573/121469746-005b7c00-c9f8-11eb-8004-ef3e1264e7ac.jpg)
 
 
-* Trash
+* Ex-Trash
 
 ![trash](https://user-images.githubusercontent.com/75695573/121469372-55e35900-c9f7-11eb-9f78-891c758bafde.jpg)
 

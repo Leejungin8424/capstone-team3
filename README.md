@@ -20,9 +20,14 @@
 
 ![metal](https://user-images.githubusercontent.com/75695573/121469613-c4281b80-c9f7-11eb-9ba4-a34f6de00c07.jpg)
 
+* Plastic
+
+
+
 * Trash
 
 ![trash](https://user-images.githubusercontent.com/75695573/121469372-55e35900-c9f7-11eb-9f78-891c758bafde.jpg)
+
 
 
 ## 결과

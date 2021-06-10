@@ -12,7 +12,10 @@
 ![model2-1](https://user-images.githubusercontent.com/75695573/121339064-123a1200-c959-11eb-8d05-63a69f6dabeb.jpg)
 
 ## 데이터
-*ex.Glass
+* ex.Glass
+
+![glass](https://user-images.githubusercontent.com/75695573/121469094-d9507a80-c9f6-11eb-9c0a-5a6c71059395.jpg)
+
 
 
 ## 결과

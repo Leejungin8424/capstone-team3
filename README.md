@@ -31,7 +31,7 @@
 
 ![model2](https://user-images.githubusercontent.com/75695573/121473538-ca20fb00-c9fd-11eb-976b-8093b4341dc2.png)
 
-### Model Summary
+* Model Summary
 
 ![model1-1](https://user-images.githubusercontent.com/75695573/121338649-a9529a00-c958-11eb-916c-e13468a49c11.jpg)
 

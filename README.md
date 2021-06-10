@@ -44,7 +44,7 @@
 
 ![Confusion Matrix](https://user-images.githubusercontent.com/75695573/121341267-73fb7b80-c95b-11eb-942b-fc408d1b7d8f.jpg)
 
-* F-1 Score
+* F1-Score
 
 ![f-1 score](https://user-images.githubusercontent.com/75695573/121340039-16b2fa80-c95a-11eb-8c00-0d0d2d47b82b.jpg)
 

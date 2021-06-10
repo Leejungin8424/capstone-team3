@@ -16,6 +16,9 @@
 
 ![glass](https://user-images.githubusercontent.com/75695573/121469094-d9507a80-c9f6-11eb-9c0a-5a6c71059395.jpg)
 
+* Trash
+
+![trash](https://user-images.githubusercontent.com/75695573/121469372-55e35900-c9f7-11eb-9f78-891c758bafde.jpg)
 
 
 ## 결과

@@ -29,7 +29,7 @@
 
 ![model1](https://user-images.githubusercontent.com/75695573/121473376-8d550400-c9fd-11eb-998b-5e3868148c01.png)
 
-![model2](https://user-images.githubusercontent.com/75695573/121473223-4a932c00-c9fd-11eb-8183-e1227ba27397.png)
+![model2](https://user-images.githubusercontent.com/75695573/121473538-ca20fb00-c9fd-11eb-976b-8093b4341dc2.png)
 
 ![model1-1](https://user-images.githubusercontent.com/75695573/121338649-a9529a00-c958-11eb-916c-e13468a49c11.jpg)
 
